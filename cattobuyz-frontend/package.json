@@ -1,0 +1,31 @@
+{
+  "name": "cattobuyz-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "frontend:dev": "nuxt --config-file nuxt.config.js -p=3000",
+    "admin:dev": "nuxt --config-file admin/nuxt.config.js -p=4000",
+    "dev": "concurrently \"npm run frontend:dev\" \"npm run admin:dev\"",
+    "frontend:build": "nuxt build --config-file nuxt.config.js",
+    "admin:build": "nuxt build --config-file admin/nuxt.config.js",
+    "build": "concurrently \"npm run frontend:build\" \"npm run admin:build\"",
+    "frontend:start": "nuxt start --config-file nuxt.config.js",
+    "admin:start": "nuxt start --config-file admin/nuxt.config.js",
+    "export": "nuxt export",
+    "frontend:serve": "nuxt serve --config-file nuxt.config.js",
+    "admin:serve": "nuxt serve --config-file admin/nuxt.config.js"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.11.0",
+    "@popperjs/core": "^2.6.0",
+    "bootstrap": "^4.5.0",
+    "bootstrap-vue": "^2.15.0",
+    "jquery": "^3.5.1",
+    "moment": "^2.28.0",
+    "nuxt": "^2.13.0",
+    "vue-quill-editor": "^3.0.6",
+    "vue-toastr": "^2.1.2",
+    "vuejs-datepicker": "^1.6.2"
+  },
+  "devDependencies": {}
+}
