@@ -41,9 +41,9 @@
                             <li><a href="shop.php">Shop</a></li>
                             <li class="dropdown"><a href="#">Categories<i class="fa fa-angle-down"></i></a>
                                 <ul role="menu" class="sub-menu">
-                                    <li><a href="#">Electronics</a></li>
-                                    <li><a href="#">Fashion</a></li>
-                                    <li><a href="#">Home Appliances</a></li>
+                                    <li><a href="#">Categories 1</a></li>
+                                    <li><a href="#">Categories 2</a></li>
+                                    <li><a href="#">Categories 3</a></li>
                                 </ul>
                             </li>
                             <li><a href="contact-us.php">Contact</a></li>
