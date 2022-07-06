@@ -120,15 +120,15 @@
 							<div class="product-image-wrapper">
 								<div class="single-products">
 									<div class="productinfo text-center">
-										<img src="images/shop/product12.jpg" alt="" />
-										<h2>$56</h2>
-										<p>Easy Polo Black Edition</p>
+										<img src="images/product/catstarterkit.jpeg" alt="" />
+										<h2>$60</h2>
+										<p>Cat Starter Kit</p>
 										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									</div>
 									<div class="product-overlay">
 										<div class="overlay-content">
-											<h2>$56</h2>
-											<p>Easy Polo Black Edition</p>
+											<h2>$60</h2>
+											<p>Cat Starter Kit</p>
 											<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 										</div>
 									</div>
@@ -145,15 +145,15 @@
 							<div class="product-image-wrapper">
 								<div class="single-products">
 									<div class="productinfo text-center">
-										<img src="images/shop/product11.jpg" alt="" />
-										<h2>$56</h2>
-										<p>Easy Polo Black Edition</p>
+										<img src="images/product/makanankucing.jpeg" alt="" />
+										<h2>$20</h2>
+										<p>Cat Food</p>
 										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									</div>
 									<div class="product-overlay">
 										<div class="overlay-content">
-											<h2>$56</h2>
-											<p>Easy Polo Black Edition</p>
+											<h2>$20</h2>
+											<p>Cat Food</p>
 											<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 										</div>
 									</div>
@@ -170,15 +170,15 @@
 							<div class="product-image-wrapper">
 								<div class="single-products">
 									<div class="productinfo text-center">
-										<img src="images/shop/product10.jpg" alt="" />
-										<h2>$56</h2>
-										<p>Easy Polo Black Edition</p>
+										<img src="images/product/petcargo.jpeg" alt="" />
+										<h2>$70</h2>
+										<p>Pet Cargo Medium</p>
 										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									</div>
 									<div class="product-overlay">
 										<div class="overlay-content">
-											<h2>$56</h2>
-											<p>Easy Polo Black Edition</p>
+											<h2>$70</h2>
+											<p>Pet Cargo Medium</p>
 											<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 										</div>
 									</div>
@@ -195,15 +195,15 @@
 							<div class="product-image-wrapper">
 								<div class="single-products">
 									<div class="productinfo text-center">
-										<img src="images/shop/product9.jpg" alt="" />
-										<h2>$56</h2>
-										<p>Easy Polo Black Edition</p>
+										<img src="images/product/petcargos.jpeg" alt="" />
+										<h2>$80</h2>
+										<p>Pet Cargo</p>
 										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									</div>
 									<div class="product-overlay">
 										<div class="overlay-content">
-											<h2>$56</h2>
-											<p>Easy Polo Black Edition</p>
+											<h2>$80</h2>
+											<p>Pet Cargo</p>
 											<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 										</div>
 									</div>
@@ -221,15 +221,15 @@
 							<div class="product-image-wrapper">
 								<div class="single-products">
 									<div class="productinfo text-center">
-										<img src="images/shop/product8.jpg" alt="" />
-										<h2>$56</h2>
-										<p>Easy Polo Black Edition</p>
+										<img src="images/product/smartfeeding.jpeg" alt="" />
+										<h2>$128</h2>
+										<p>Smart Feeder Water</p>
 										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									</div>
 									<div class="product-overlay">
 										<div class="overlay-content">
-											<h2>$56</h2>
-											<p>Easy Polo Black Edition</p>
+											<h2>$128</h2>
+											<p>Smart Feeder Water</p>
 											<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 										</div>
 									</div>
@@ -247,15 +247,15 @@
 							<div class="product-image-wrapper">
 								<div class="single-products">
 									<div class="productinfo text-center">
-										<img src="images/shop/product7.jpg" alt="" />
-										<h2>$56</h2>
-										<p>Easy Polo Black Edition</p>
+										<img src="images/product/waterdish.jpeg" alt="" />
+										<h2>$30</h2>
+										<p>Simple Water Feeder</p>
 										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									</div>
 									<div class="product-overlay">
 										<div class="overlay-content">
-											<h2>$56</h2>
-											<p>Easy Polo Black Edition</p>
+											<h2>$30</h2>
+											<p>Simple Water Feeder</p>
 											<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 										</div>
 									</div>
