@@ -127,19 +127,19 @@ require 'koneksi.php';
 										<img src="images/product/catstarterkit.jpeg" alt="" />
 										<h2>$60</h2>
 										<p>Cat Starter Kit</p>
-										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+										<a href="product1-starterkit.php" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									</div>
 									<div class="product-overlay">
 										<div class="overlay-content">
 											<h2>$60</h2>
 											<p>Cat Starter Kit</p>
-											<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+											<a href="product1-starterkit.php" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 										</div>
 									</div>
 								</div>
 								<div class="choose">
 									<ul class="nav nav-pills nav-justified">
-										<li><a href=""><i class="fa fa-plus-square"></i>Add to wishlist</a></li>
+										<li><a href="wishlist1-starterkit.php"><i class="fa fa-plus-square"></i>Add to wishlist</a></li>
                                         <li><a href="#"><i class="fa fa-eye"></i>view item</a></li>
 									</ul>
 								</div>
@@ -152,19 +152,19 @@ require 'koneksi.php';
 										<img src="images/product/makanankucing.jpeg" alt="" />
 										<h2>$20</h2>
 										<p>Cat Food</p>
-										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+										<a href="product2-catfood.php" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									</div>
 									<div class="product-overlay">
 										<div class="overlay-content">
 											<h2>$20</h2>
 											<p>Cat Food</p>
-											<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+											<a href="product2-catfood.php" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 										</div>
 									</div>
 								</div>
 								<div class="choose">
 									<ul class="nav nav-pills nav-justified">
-										<li><a href=""><i class="fa fa-plus-square"></i>Add to wishlist</a></li>
+										<li><a href="wishlist2-catfood.php"><i class="fa fa-plus-square"></i>Add to wishlist</a></li>
                                         <li><a href="#"><i class="fa fa-eye"></i>view item</a></li>
 									</ul>
 								</div>
@@ -177,19 +177,19 @@ require 'koneksi.php';
 										<img src="images/product/petcargo.jpeg" alt="" />
 										<h2>$70</h2>
 										<p>Pet Cargo Medium</p>
-										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+										<a href="product6-petcargomedium.php" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									</div>
 									<div class="product-overlay">
 										<div class="overlay-content">
 											<h2>$70</h2>
 											<p>Pet Cargo Medium</p>
-											<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+											<a href="product6-petcargomedium.php" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 										</div>
 									</div>
 								</div>
 								<div class="choose">
 									<ul class="nav nav-pills nav-justified">
-										<li><a href=""><i class="fa fa-plus-square"></i>Add to wishlist</a></li>
+										<li><a href="wishlist6-petcargomedium.php"><i class="fa fa-plus-square"></i>Add to wishlist</a></li>
                                         <li><a href="#"><i class="fa fa-eye"></i>view item</a></li>
 									</ul>
 								</div>
@@ -202,20 +202,20 @@ require 'koneksi.php';
 										<img src="images/product/petcargos.jpeg" alt="" />
 										<h2>$80</h2>
 										<p>Pet Cargo</p>
-										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+										<a href="product4-petcargo.php" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									</div>
 									<div class="product-overlay">
 										<div class="overlay-content">
 											<h2>$80</h2>
 											<p>Pet Cargo</p>
-											<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+											<a href="product4-petcargo.php" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 										</div>
 									</div>
 									<img src="images/home/new.png" class="new" alt="" />
 								</div>
 								<div class="choose">
 									<ul class="nav nav-pills nav-justified">
-										<li><a href=""><i class="fa fa-plus-square"></i>Add to wishlist</a></li>
+										<li><a href="wishlist4-petcargo.php"><i class="fa fa-plus-square"></i>Add to wishlist</a></li>
                                         <li><a href="#"><i class="fa fa-eye"></i>view item</a></li>
 									</ul>
 								</div>
@@ -228,20 +228,20 @@ require 'koneksi.php';
 										<img src="images/product/smartfeeding.jpeg" alt="" />
 										<h2>$128</h2>
 										<p>Smart Feeder Water</p>
-										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+										<a href="product3-smartfeeder.php" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									</div>
 									<div class="product-overlay">
 										<div class="overlay-content">
 											<h2>$128</h2>
 											<p>Smart Feeder Water</p>
-											<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+											<a href="product3-smartfeeder.php" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 										</div>
 									</div>
 									<img src="images/home/sale.png" class="new" alt="" />
 								</div>
 								<div class="choose">
 									<ul class="nav nav-pills nav-justified">
-										<li><a href=""><i class="fa fa-plus-square"></i>Add to wishlist</a></li>
+										<li><a href="wishlist3-smartfeeder.php"><i class="fa fa-plus-square"></i>Add to wishlist</a></li>
                                         <li><a href="#"><i class="fa fa-eye"></i>view item</a></li>
 									</ul>
 								</div>
@@ -254,19 +254,19 @@ require 'koneksi.php';
 										<img src="images/product/waterdish.jpeg" alt="" />
 										<h2>$30</h2>
 										<p>Simple Water Feeder</p>
-										<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+										<a href="product5-simplefeeder.php" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 									</div>
 									<div class="product-overlay">
 										<div class="overlay-content">
 											<h2>$30</h2>
 											<p>Simple Water Feeder</p>
-											<a href="#" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+											<a href="product5-simplefeeder.php" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
 										</div>
 									</div>
 								</div>
 								<div class="choose">
 									<ul class="nav nav-pills nav-justified">
-										<li><a href=""><i class="fa fa-plus-square"></i>Add to wishlist</a></li>
+										<li><a href="wishlist5-simplefeeder.php"><i class="fa fa-plus-square"></i>Add to wishlist</a></li>
                                         <li><a href="#"><i class="fa fa-eye"></i>view item</a></li>
 									</ul>
 								</div>
