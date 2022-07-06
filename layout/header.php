@@ -15,7 +15,7 @@
                             <li><a href="#"><i class="fa fa-star"></i> Wishlist</a></li>
                             <li><a href="#"><i class="fa fa-list"></i> My Orders</a></li>
                             <li><a href="cart.php"><i class="fa fa-shopping-cart"></i> Cart</a></li>
-                            <li><a href="login.php"><i class="fa fa-lock"></i> Login</a></li>
+                            <li><a href="#"><i class="fa fa-sign-out"></i> Sign out</a></li>
                         </ul>
                     </div>
                 </div>
