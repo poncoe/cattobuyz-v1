@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Slider v-if="sliderProducts.length" :sliderProducts="sliderProducts"></Slider>
+    <!-- <Slider v-if="sliderProducts.length" :sliderProducts="sliderProducts"></Slider> -->
 
     <section>
       <div class="container">
