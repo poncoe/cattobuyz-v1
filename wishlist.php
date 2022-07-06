@@ -45,7 +45,7 @@ require 'koneksi.php';
 								<a href=""><img src='<?php echo $img ?>' height="150px" width="150px" alt=""></a>
 							</td>
 							<td class="cart_description">
-								<h4 style="visibility: hidden;"><a href=""><?php echo $row['id'];?></a></h4>
+								<p style="visibility: hidden;"><a href=""><?php echo $row['id'];?></a></p>
 								<h4><a href=""><?php echo $row['nameproduct'];?></a></h4>
 							</td>
 							<td class="cart_price">
